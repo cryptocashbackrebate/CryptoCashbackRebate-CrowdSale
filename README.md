@@ -2,5 +2,7 @@
 Crowdsale and CCR Token contracts
 
 Token Name: CryptoCashbackRebate Token
+
 Token Symbol: CCR
-Token Decimal: 18
+
+Token Decimals: 18
